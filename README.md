@@ -1,6 +1,4 @@
-# Tinkerer-s-Night-project 
-First Prize winner with cash prize of 5000 INR.
-This project  was made in the annual event of IITH known as tinkerer's night<!DOCTYPE html>
+#Ritsumeikan_PBL_complete_summer_project
 <html lang="en">
 
 <head>
